@@ -20,10 +20,11 @@ html {
  * Customize the background color to match your design.
  */
 
-::-moz-selection {
+/*::-moz-selection {
 
 }
-
+ */
+ 
 ::selection {
     background: #44c8f5;
 }
